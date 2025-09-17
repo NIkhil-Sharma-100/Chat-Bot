@@ -1,2 +1,10 @@
-Thisis not end we can obviously increase more responses with difeerent keys.
-We can also use "tranasformers" for NLP(Normal language prompt) so intraction become more simple and ingaging
+#🤖 CHAT - BOT
+
+## Overview 
+It is simple ai chat bot respond on user input*(specific)*
+
+## Features
+- Use dictionary for storing responces
+- Use conditinol statements to respond
+
+## Future Updates
