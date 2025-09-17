@@ -1,10 +1,10 @@
-## 🤖 CHAT - BOT
+# 🤖 CHAT - BOT
 
-# Overview 
+## Overview 
 It is simple ai chat bot respond on user input*(specific)*
 
-# Features
+## Features
 - Use dictionary for storing responces
 - Use conditinol statements to respond
 
-# Future Updates
+## Future Updates
