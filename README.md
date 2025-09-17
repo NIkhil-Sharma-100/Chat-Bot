@@ -8,3 +8,5 @@ It is simple ai chat bot respond on user input (*specific*)
 - Use conditinol statements to respond
 
 ## Future Updates
+- More specific keys can be added in response dictionary
+- For web search open ai and api's will be added
